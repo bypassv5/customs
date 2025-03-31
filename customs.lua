@@ -1,2 +1,2 @@
-local ID = {}
+local ID = {5784808007, 4246268326}
 shared.ID = ID
